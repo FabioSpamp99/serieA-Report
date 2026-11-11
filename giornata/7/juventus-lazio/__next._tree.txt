@@ -1,0 +1,7 @@
+:HL["/serieA-Report/_next/static/chunks/0rgacjgfjryq9.css","style"]
+:HC["/",""]
+4:[["children",{"s":"__PAGE__","h":160}]]
+3:[["children",{"s":{"n":"slug","t":"d","k":"juventus-lazio","s":["tempi"]},"h":65632,"c":"$Q4"}]]
+2:[["children",{"s":{"n":"round","t":"d","k":"7","s":[]},"h":196704,"c":"$Q3"}]]
+1:[["children",{"s":"giornata","h":131168,"c":"$Q2"}]]
+0:{"b":"EcXAc-8cWU6tzSunGUdJv","t":{"t":{"s":"","h":131152,"c":"$Q1"}}}

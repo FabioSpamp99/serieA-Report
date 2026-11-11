@@ -1,0 +1,1 @@
+self.__SSG_MANIFEST=new Set(["\u002Fgiornata\u002F[round]","\u002Fgiornata\u002F[round]\u002F[slug]","\u002Fgiornata\u002F[round]\u002Ftempi"]);self.__SSG_MANIFEST_CB&&self.__SSG_MANIFEST_CB()
